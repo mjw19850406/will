@@ -1,12 +1,12 @@
 北京频道,#genre#
-北京卫视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1743476406&sign=9ddb2d849453e4a785f7f5c0d12e2803
-北京新闻,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=1743476408&sign=e3a37f10c0c36b73b9b4108561c962ce
-北京影视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=1743476407&sign=6e8207943f8ba24b2544218cbbaa1eda
-北京生活,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?time=1743476408&sign=a9e5fb16515a5f90c3175198b24a98cf
-北京文艺,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?time=1743476407&sign=06efab830c30b0f5dc8d9193703797ef
-北京财经,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=1743476408&sign=5768462cca5acaf5ab7a2eb77a639832
-北京纪实科教,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8?time=1743476407&sign=520974b630adb0f1780ca2657099a64d
-北京卡酷少儿,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1743476409&sign=6f86c80c76c94edd76bc40098e2b465d
+北京卫视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1742972543&sign=7abea445f68ec6066ad7224f9350b622
+北京新闻,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=1742972545&sign=d53cb8ef9d4fc2ddac123fe682687e22
+北京影视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=1742972544&sign=ed58909c9a6b6573bf1356377191f919
+北京生活,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?time=1742972544&sign=fb36ed19d4092b5c0d7e694110d193b7
+北京文艺,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?time=1742972543&sign=e67647c8a06eb68b6cfac833401e0c42
+北京财经,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=1742972544&sign=c5d6766a898622d7fc9ea1e70ce830b0
+北京纪实科教,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8?time=1742972543&sign=91c976fda1f35e64f7849e32264d5d37
+北京卡酷少儿,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1742972545&sign=bc0645ac10360a40b82a8936b363057f
 
 电影频道,#genre#
 CHC动作电影,http://120.238.94.82:9901/tsfile/live/1052_1.m3u8
